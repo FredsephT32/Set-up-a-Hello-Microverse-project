@@ -33,19 +33,6 @@ Open a pull request.
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
