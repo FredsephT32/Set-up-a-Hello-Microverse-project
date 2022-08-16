@@ -28,7 +28,7 @@ Make sure that the last file is actually ignored by git and is not present in yo
 Open a pull request.
 
 
-👤 **Author Frederick**
+👤 **Author Frederick :shipit:**
 
 - GitHub: [@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
